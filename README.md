@@ -47,19 +47,19 @@ I care about shipping software that is useful, reliable, and easy to scale.
 
 ## Featured Work
 
-### [SickleShield](https://github.com/olamarvel)
+### [SickleShield](https://sickleshield.com)
 
 A healthcare technology initiative focused on sickle cell crisis prevention, patient support, and better day-to-day care.
 
-### [Chemical Imbalance](https://github.com/olamarvel)
+### [Chemical Imbalance](https://chemicalimbalance.executive.ng)
 
 An AI-powered drug safety tool designed to help users make safer medication decisions.
 
-### [CYLANET](https://github.com/olamarvel)
+### [CYLANET](https://cylanet.com)
 
 A medication redistribution platform built to reduce pharmaceutical waste and improve access.
 
-### [Contr-act-ol](https://github.com/olamarvel)
+### [Contr-act-ol](https://contraction.executive.ng)
 
 An AI-powered contraction tracking tool built to support pregnancy monitoring.
 
